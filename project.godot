@@ -16,6 +16,11 @@ config/features=PackedStringArray("4.4", "Forward Plus")
 boot_splash/image="uid://bpvua6qny11tj"
 config/icon="res://icon.svg"
 
+[display]
+
+window/size/mode=3
+window/stretch/mode="viewport"
+
 [rendering]
 
 renderer/rendering_method="gl_compatibility"
